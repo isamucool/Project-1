@@ -51,7 +51,8 @@ a:hover {
 .nav a {
   transition: all .5s;
 }
-.nav a:hover {
+.nav a:hover,
+.nav .selected {
   color: white
 }
 
